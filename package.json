@@ -1,0 +1,14 @@
+{
+  "name": "bagula",
+  "version": "1.0.0",
+  "description": "Meow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gixu572",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
